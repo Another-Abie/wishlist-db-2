@@ -1,0 +1,64 @@
+{
+  "story": [
+    {
+      "id": 231,
+      "wishlist": "Jaya Abadi Date",
+      "isTrue": true
+    },
+    {
+      "id": 232,
+      "wishlist": "KDrama Date",
+      "isTrue": true
+    },
+    {
+      "id": 233,
+      "wishlist": "Aquarium Date",
+      "isTrue": false
+    },
+    {
+      "id": 234,
+      "wishlist": "Zoo Date",
+      "isTrue": false
+    },
+    {
+      "id": 235,
+      "wishlist": "Deeptalk Di Jendela",
+      "isTrue": true
+    },
+    {
+      "id": 236,
+      "wishlist": "Lego Date",
+      "isTrue": false
+    },
+    {
+      "id": 237,
+      "wishlist": "Mie Ayam Date",
+      "isTrue": false
+    },
+    {
+      "id": 238,
+      "wishlist": "Book Store Date",
+      "isTrue": false
+    },
+    {
+      "id": 239,
+      "wishlist": "Badminton Date",
+      "isTrue": false
+    },
+    {
+      "id": 240,
+      "wishlist": "Ke Surya Kencana",
+      "isTrue": false
+    },
+    {
+      "id": 241,
+      "wishlist": "Train Date",
+      "isTrue": true
+    },
+    {
+      "id": 242,
+      "wishlist": "Painting Date",
+      "isTrue": false
+    }
+  ]
+}
