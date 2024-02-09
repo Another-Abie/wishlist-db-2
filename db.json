@@ -28,7 +28,7 @@
     {
       "id": 236,
       "wishlist": "Lego Date",
-      "isTrue": false
+      "isTrue": true
     },
     {
       "id": 237,
@@ -59,6 +59,11 @@
       "id": 242,
       "wishlist": "Painting Date",
       "isTrue": false
+    },
+    {
+      "id": 243,
+      "wishlist": "Ke Mixue Cikaret Sama Pacar",
+      "isTrue": true
     }
   ]
 }
